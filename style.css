@@ -1,0 +1,21 @@
+.photostory{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid rgb(238, 39, 82);
+    margin-right: 7px;
+}
+
+.list-group-item {
+    border: 0px ;
+}
+.right{
+    float: right;
+    margin-right: 10px;
+    color: #0095f6;
+    opacity: 50%;
+}
+
+#asd{
+    opacity: 100%;
+}
